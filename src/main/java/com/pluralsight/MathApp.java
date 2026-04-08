@@ -6,10 +6,11 @@ public class MathApp {
         //Variables for question 1
         int bobSalary = 45000;
         int garySalary = 60000;
-        String highestSalary = "";
 
-        //who's salary is greater?
 
+        //whose salary is greater?
+        int highestSalary = Math.max(bobSalary,garySalary);
+        System.out.println("the maximum is " + highestSalary);
 
 
         //Question 2
@@ -17,7 +18,11 @@ public class MathApp {
         int carPrice = 26000;
         int truckPrice = 80000;
 
+        int lowestPrice = Math.min(carPrice,truckPrice);
+        System.out.println("The minimum is " + lowestPrice);
+
         //Question 3
+
 
         //Question 4
 
