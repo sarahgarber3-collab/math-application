@@ -49,9 +49,10 @@ public class MathApp {
         double absoluteValue = Math.abs (-3.8);
         System.out.println("Absolute Value of -3.8: " + absoluteValue);
 
-
         //Question 7
-        //Find and display the absolute (positive) value of a variable after it is set to -3.8
+        //Find and display a number between 0 and 1
+        double aRandomNumber = Math.random();
+        System.out.println("A random number: " + aRandomNumber);
 
         //Question 8
         //. Calculate how many minutes are in 24 days, use a variable for each value you
