@@ -44,7 +44,7 @@ public class MathApp {
         double distance = Math.sqrt(Math.pow(a-p, 2) + Math.pow(b-q, 2));
         System.out.println("Distance between points: " + distance);
 
-        //Question 6
+        //Question 6 :)
         //Find and display the absolute (positive) value of a variable after it is set to -3.8
 
 
