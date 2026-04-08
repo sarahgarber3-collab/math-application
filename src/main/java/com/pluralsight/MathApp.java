@@ -37,10 +37,16 @@ public class MathApp {
 
         //Question 5
         //Find and display the distance between the points (5, 10) and (85, 50)
-
+        int a = 5;
+        int b = 10;
+        int p = 85;
+        int q = 50;
+        double distance = Math.sqrt(Math.pow(a-p, 2) + Math.pow(b-q, 2));
+        System.out.println("Distance between points: " + distance);
 
         //Question 6
         //Find and display the absolute (positive) value of a variable after it is set to -3.8
+
 
         //Question 7
         //Find and display the absolute (positive) value of a variable after it is set to -3.8
