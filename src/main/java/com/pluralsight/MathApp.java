@@ -35,10 +35,9 @@ public class MathApp {
         double number = 5.0;
         System.out.println("Square root of number 5.0 is " + Math.sqrt(number));
 
-
-
         //Question 5
         //Find and display the distance between the points (5, 10) and (85, 50)
+
 
         //Question 6
         //Find and display the absolute (positive) value of a variable after it is set to -3.8
