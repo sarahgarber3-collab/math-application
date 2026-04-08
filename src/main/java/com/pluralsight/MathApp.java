@@ -22,9 +22,13 @@ public class MathApp {
         System.out.println("The minimum is " + lowestPrice);
 
         //Question 3
+        double radius = 7.25;
+
+        System.out.println("the area is " + Math.PI * (radius * radius) );
 
 
         //Question 4
+
 
         //Question 5
 
